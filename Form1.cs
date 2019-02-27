@@ -13,6 +13,7 @@ namespace qlscl
     {
         public Form1()
         {
+            //test
             InitializeComponent();
         }
     }
