@@ -17,5 +17,17 @@ namespace qlscl
             InitializeComponent();
             return;
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int kq;
+            kq = int.Parse(textBox1.Text) + int.Parse(textBox2.Text);
+            lbKq.Text = ""+kq;
+        }
     }
 }

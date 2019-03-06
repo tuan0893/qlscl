@@ -1,3 +1,5 @@
-qlscl.sln
-qlscl.suo
-.vs
+bin
+obj
+*.sln
+*.suo
+*.vs
