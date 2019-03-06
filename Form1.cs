@@ -15,6 +15,7 @@ namespace qlscl
         {
             //test
             InitializeComponent();
+            return;
         }
     }
 }
